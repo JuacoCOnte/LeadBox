@@ -1,0 +1,2 @@
+Utilizo una extencion llamada Live Server en VisualStudio Code, pulsando el boton GoLive se abre directamente en el navegador predeterminado.
+En el caso de no tener la extencion descargar el repositorio y abrir el archivo index.html
